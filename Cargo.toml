@@ -1,0 +1,11 @@
+[package]
+name = "texture"
+version = "0.1.0"
+authors = ["micouy <szpontaniczny@gmail.com>"]
+
+[dependencies]
+gfx = "0.17.1"
+gfx_window_glutin = "0.20"
+glutin = "0.12.2"
+gfx_device_gl = "0.15.2"
+
