@@ -1,2 +1,2 @@
-# gfx-rs-rtt
-Demo of RTT in gfx-rs.
+# Gfx-rs RTT
+Rendering to texture in gfx-rs.
